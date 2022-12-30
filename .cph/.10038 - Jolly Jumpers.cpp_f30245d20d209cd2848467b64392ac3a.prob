@@ -1,0 +1,1 @@
+{"name":"Local: 10038 - Jolly Jumpers","url":"d:\\GitClones\\UVA\\10038 - Jolly Jumpers.cpp","tests":[{"id":1672343701540,"input":"4 1 4 2 3\n5 1 4 2 -1 6","output":"Jolly\nNot jolly"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\UVA\\10038 - Jolly Jumpers.cpp","group":"local","local":true}

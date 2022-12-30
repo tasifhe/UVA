@@ -1,0 +1,1 @@
+{"name":"Local: 10783 - Odd Sum","url":"d:\\GitClones\\UVA\\10783 - Odd Sum.cpp","tests":[{"id":1672377906963,"input":"2\n1\n5\n3\n5","output":"Case 1: 9\nCase 2: 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\UVA\\10783 - Odd Sum.cpp","group":"local","local":true}
