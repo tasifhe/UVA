@@ -1,0 +1,1 @@
+{"name":"Local: 100 - The 3n + 1 problem","url":"d:\\GitClones\\UVA\\100 - The 3n + 1 problem.cpp","tests":[{"id":1672390053098,"input":"1 10\n100 200\n201 210\n900 1000","output":"1 10 20\n100 200 125\n201 210 89\n900 1000 174"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\UVA\\100 - The 3n + 1 problem.cpp","group":"local","local":true}
