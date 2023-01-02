@@ -1,0 +1,1 @@
+{"name":"Local: 10137 - The Trip","url":"d:\\GitClones\\UVA\\10137 - The Trip.cpp","tests":[{"id":1672409132680,"input":"3\n10.00\n20.00\n30.00\n4\n15.00\n15.01\n3.00\n3.01\n0","output":"$10.00\n$11.99"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\UVA\\10137 - The Trip.cpp","group":"local","local":true}
