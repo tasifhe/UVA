@@ -1,0 +1,1 @@
+{"name":"Local: 10033 - Interpreter","url":"d:\\GitClones\\UVA\\10033 - Interpreter.cpp","tests":[{"id":1672773865821,"input":"1\n299\n492\n495\n399\n492\n495\n399\n283\n279\n689\n078\n100\n000\n000\n000","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\UVA\\10033 - Interpreter.cpp","group":"local","local":true}

@@ -5,16 +5,16 @@ using namespace std;
 
 int main()
 {
-    int T, N, min, max, temp;
+    int T, Ns, min, max, temp;
     
     cin >> T;
     
     while (T--)
     {
         min = 99; max = 0;
-        cin >> N;
+        cin >> Ns;
         
-        for (int i = 0; i < N; ++i)
+        for (int i = 0; i < Ns; ++i)
         {
             scanf("%d", &temp);
             

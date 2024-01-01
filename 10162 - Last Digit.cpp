@@ -1,32 +1,20 @@
 //* Solved by Tasif Hossain Emon
 //* Student of SMUCT //BATCH 29th //ID:221071042
 #include<bits/stdc++.h>
-#define lolo long long
 using namespace std;
 
+string n;
 int main()
 {
-    lolo sum = 0;
-    lolo a[110];
-    a[0] = 0;
-    for(lolo i=1;i<=105;i++)
+    while(cin>>n&&n!="0")
     {
-        lolo Tsum = 1;
-        for(lolo j=0;i<i;j++)
-            Tsum=(Tsum%10 * i%10)%10;
-        sum=(sum+Tsum)%10;
-        a[i]=sum;
-    }
-    char c[2005];
-    lolo len,end;
-    while (scanf("%s", &c)&&c[0]!='0')
-    {
-        len=strlen(c);
-        if(len==1)
-            end=c[0]-48;
-        else
-            end=(c[len-2]-48)*10 + (c[len-1]-48);
-        cout<<a[end]<<endl;
+        int len=n.length();
+        int sum=0;
+        for(int i=0;i<len;i++)
+        {
+            sum=(sum+(n[i]-'0') * (pow(10,len-i-1)%10))%10;
+        }
+        cout<<(sum* (pow(10,len-1)%10))%10<<endl;
     }
     return 0;
 }

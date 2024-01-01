@@ -1,0 +1,1 @@
+{"name":"Local: 10924 - Prime Words","url":"d:\\GitClones\\UVA\\10924 - Prime Words.cpp","tests":[{"id":1674154553365,"input":"UFRN\ncontest\nAcM","output":"It is a prime word.\nIt is not a prime word.\nIt is not a prime word."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\UVA\\10924 - Prime Words.cpp","group":"local","local":true}
