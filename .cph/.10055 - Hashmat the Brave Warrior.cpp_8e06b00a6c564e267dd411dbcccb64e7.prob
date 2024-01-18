@@ -1,0 +1,1 @@
+{"name":"Local: 10055 - Hashmat the Brave Warrior","url":"d:\\GitClones\\UVA\\10055 - Hashmat the Brave Warrior.cpp","tests":[{"id":1704221966633,"input":"10 12\n10 14\n100 200","output":"2\n4\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\UVA\\10055 - Hashmat the Brave Warrior.cpp","group":"local","local":true}
